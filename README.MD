@@ -5,7 +5,7 @@ This is [Clarifion Next Checkout]() project.
 First, you need to have ["Docker"](https://www.docker.com/) installed in your machine
 then:
 
-1. Initialize the container install the npm packages and run the development server:
+1. Initialize the container, install the npm packages and run the development server:
 
 ```bash
 // Option 1: easiest way, using make command
